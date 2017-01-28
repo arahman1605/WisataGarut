@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\Pictures\WisataGarut\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Lenovo\Pictures\WisataGarut\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_98a3f2693114215f5508054660b938e1285a3829.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\Pictures\WisataGarut\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Lenovo\Pictures\WisataGarut\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_ba87cbc3ce7af7b2cdd448d3c20afa112efa8e1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Lenovo\Pictures\WisataGarut\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_226a99a9d3acb389e2e846394ebfe246eefb4ffa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\Pictures\WisataGarut\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Lenovo\Pictures\WisataGarut\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_d24a8685f319ffe01a9bbc6b7689f8fd86f6b85b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Lenovo\Pictures\WisataGarut\app\build\intermediates\pre-dexed\debug\glide-3.7.0_188b44cb98d907cd1f8e472564d8b2c1c04e80dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\Pictures\WisataGarut\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Lenovo\Pictures\WisataGarut\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_9b13828484fad3cb02cef022b57bd3013f4dd2ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\Pictures\WisataGarut\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\Lenovo\Pictures\WisataGarut\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.3.0_3447a010da2ce0505a185b58cd2c15e2916871ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\Pictures\WisataGarut\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Lenovo\Pictures\WisataGarut\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_71c3e43b0320828fafc065dcadbbb3041792a2e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\Pictures\WisataGarut\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\Lenovo\Pictures\WisataGarut\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_b9e8b0672ae0c15fb6677a18f8f41b26f2670011.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\Pictures\WisataGarut\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\Lenovo\Pictures\WisataGarut\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_4e1d83b27f7945d5eac3033525b7611a284134d5.jar" />
+    </item>
+
+</items>
