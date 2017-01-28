@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wisata Garut</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_lihat_deskripsi">Lihat Deskripsi Wisata</string>
+    <string name="action_tentang">Tentang</string>
+    <string name="action_keluar">Keluar</string>
+    <string name="backdrop_title">WISATA GARUT</string>
+    <string name="backdrop_subtitle">Informasi Tempat Wisata Daerah Garut</string>
+</resources>
